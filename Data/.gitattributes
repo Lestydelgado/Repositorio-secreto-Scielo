@@ -1,3 +1,5 @@
 scopus_bd.csv filter=lfs diff=lfs merge=lfs -text
 scopus_bd_aumentada.csv filter=lfs diff=lfs merge=lfs -text
 scopus_con_indicadores.csv filter=lfs diff=lfs merge=lfs -text
+scopus_cluster.csv filter=lfs diff=lfs merge=lfs -text
+abstract_eng.csv filter=lfs diff=lfs merge=lfs -text
